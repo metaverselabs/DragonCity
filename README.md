@@ -1,4 +1,4 @@
-##Dragon City
+# Dragon City
 
 
 Dragon City is a virtual Chinese cultural city based on blockchain. As a large-scale community in
@@ -14,7 +14,7 @@ themself as a virtual avatar to represent who they are.
 [**Chaos: a metamatic universe**](https://metaverselabs.github.io/DragonCity/Proposal/ProposalofDragonCity.pdf)
 
 
-##龙城之诸神的部落
+## 龙城之诸神的部落
 
 
 龙城是一个基于区块链的虚拟中华文化城市，作为Decentraland中规模庞大的小区，致力于
