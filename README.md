@@ -1,4 +1,4 @@
-**Dragon City** 
+*Dragon City*
 
 
 Dragon City is a virtual Chinese cultural city based on blockchain. As a large-scale community in
