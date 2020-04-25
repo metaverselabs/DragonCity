@@ -26,7 +26,7 @@ themself as a virtual avatar to represent who they are.
 
 ### [**混沌之行上宇宙篇**](https://metaverselabs.github.io/DragonCity/Proposal/龙城规划.pdf)
 
-### Links 链接
+# Links 链接
 
 #### [Metaverse Labs 幻境实验室](https://metaverselabs.io)
 #### [Dragon City 龙城]()
