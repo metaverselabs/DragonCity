@@ -11,7 +11,7 @@ Dragon City emphasizes inclusiveness and openness. Here we do not distinguish be
 race, country, gender, and class. Dragon City welcomes everyone to enter and people can find
 themself as a virtual avatar to represent who they are.
 
-[**Proposal: a metamatic universe**](https://metaverselabs.github.io/DragonCity/Proposal/ProposalofDragonCity.pdf)
+[**Chaos: a metamatic universe**](https://metaverselabs.github.io/DragonCity/Proposal/ProposalofDragonCity.pdf)
 
 
 **龙城之诸神的部落** 
