@@ -24,5 +24,13 @@ themself as a virtual avatar to represent who they are.
 龙城强调包容性与开放性，在这里不以宗教，种族，国家，性别，阶级作为为区分。每个人都
 能以任何形式的虚拟化身在龙城中成为真实的自己，进入龙城并受到欢迎。
 
-### [**混沌之行上宇宙篇**](https://metaverselabs.github.io/DragonCity/Proposal/龙城规划（ppt）.pdf)
+### [**混沌之行上宇宙篇**](https://metaverselabs.github.io/DragonCity/Proposal/龙城规划.pdf)
+
+### Links 链接
+
+#### [Metaverse Labs 幻境实验室](https://metaverselabs.io)
+#### [Dragon City 龙城]()
+#### [Twitter](https://twitter.com/DragonCityIO)
+#### [Discord](https://discordapp.com/invite/u9npAwn)
+#### [微博](https://weibo.com/metaverselabs)
 
